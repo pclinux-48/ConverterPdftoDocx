@@ -7,4 +7,4 @@ Embora exista a recomendação para instalar determinadas bibliotecas no program
 
 pip install pdfplumber python-docx
 
-Os testes foram realiados em um MacOS, mas acredito que o código rode bem no Microsoft Windows.
+
